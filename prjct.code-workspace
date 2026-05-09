@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../THUMBN"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my project"
+	}
+}
